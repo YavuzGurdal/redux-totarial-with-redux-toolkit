@@ -1,0 +1,15 @@
+{
+  "name": "mini-api",
+  "version": "1.0.0",
+  "description": "mini api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "yavuz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
